@@ -14,3 +14,5 @@ Constraints
 •	Time limit: 0.25 seconds.
 •	Allowed memory: 16 MB.
 
+![image](https://github.com/user-attachments/assets/bd6b7411-7f0d-45ef-92f6-73ba9cced64b)
+
